@@ -15,3 +15,6 @@
 
 ## サンドバッグ
 viva:gitTest
+
+konata:nullpo
+
