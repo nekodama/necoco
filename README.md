@@ -1,5 +1,13 @@
 # necoco Project
 
+## チートシート
+### branchの作成
+* 新規作成
+git checkout -b 【branch名】
+
+* branchの切り替え
+git checkout 【branch名】
+
 ## リンク集
 * SCMBC Git資料  
 <http://www.slideshare.net/bleistift/scmbc-git-10226700>
